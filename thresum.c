@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-// returns true if there is triplet with sum equal
-// to 'sum' present in A[]. Also, prints the triplet
+
 bool find3Numbers(int A[], int arr_size, int sum)
 {
 	int l, r;
@@ -23,7 +22,6 @@ bool find3Numbers(int A[], int arr_size, int sum)
 		}
 	}
 
-	// If we reach here, then no triplet was found
 	return false;
 }
 
