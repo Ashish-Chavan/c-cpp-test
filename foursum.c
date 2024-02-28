@@ -9,6 +9,7 @@ struct pairSum {
 
 	// index (int A[]) of first element in pair
 	int first;
+int first1;int first2;
 
 	// index of second element in pair
 	int sec;
