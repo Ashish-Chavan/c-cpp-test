@@ -12,6 +12,8 @@ public:
 
 	// index of second element in pair
 	int sec;
+int sec2;
+int sec3;
 
 	// sum of the pair
 	int sum;
